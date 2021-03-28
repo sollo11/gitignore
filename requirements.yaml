@@ -1,0 +1,161 @@
+﻿Otevírání úložišť:
+C:\Users\neuro\OneDrive\C\sha1collisiondetection\Dokumenty\Plocha
+Otevírání úložišť:
+C:\Users\neuro\OneDrive\C\sha1collisiondetection\Dokumenty\Plocha
+Otevírání úložišť:
+C:\Users\neuro\OneDrive\C\sha1collisiondetection\Dokumenty\Plocha
+Potvrzení změn 5b7db12a je vytvořené místně v úložišti C:\Users\neuro\OneDrive\C\sha1collisiondetection\Dokumenty\Plocha.
+Vkládají se změny větve master.
+Pushing to C:\Users\Neuro\Source\Repos\.c
+Při vkládání větve do vzdáleného úložiště došlo k chybě: Git failed with a fatal error.
+Git failed with a fatal error.
+'C:\Users\Neuro\Source\Repos\.c' does not appear to be a git repository
+Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+
+Větev se nepodařilo vložit do vzdáleného úložiště. Další podrobnosti najdete v okně Výstup.
+Probíhá přenesení změn aktuální větve do větve refs/heads/upstream/a$aa.
+Warning: unable to rmdir '.gitignore': Directory not empty
+Warning: unable to rmdir 'getting-started': Directory not empty
+Přenesení změn – First, rewinding head to replay your work on top of it...
+Přenesení změn – používá se: ^L
+Error: The following untracked working tree files would be overwritten by merge:
+Přenesení změn – 	.vs/slnx.sqlite
+Přenesení změn – Please move or remove them before you merge.
+Přenesení změn – Aborting
+Error: merging of trees 0f6b6db1b827702239b381f0fd4be86ed3b75b58 and 263542b60faf864a85b4f5cf6f733734d2878ee8 failed
+Přenesení změn – Using index info to reconstruct a base tree...
+Přenesení změn – Falling back to patching base and 3-way merge...
+Přenesení změn – Merging:
+Přenesení změn – b51cd9c ^L
+Přenesení změn – virtual ^L
+Error: Failed to merge in the changes.
+Přenesení změn – Patch failed at 0001 ^L
+Přenesení změn – Resolve all conflicts manually, mark them as resolved with
+Přenesení změn – "git add/rm <conflicted_files>", then run "git rebase --continue".
+Přenesení změn – You can instead skip this commit: run "git rebase --skip".
+Přenesení změn – To abort and get back to the state before "git rebase", run "git rebase --abort".
+Hint: Use 'git am --show-current-patch=diff' to see the failed patch
+V pracovním adresáři existují konflikty. Než budete pokračovat, vyřešte je.
+Přeskakuje se aktuální oprava a pokračuje se v přenášení změn...
+Přenesení změn aktuální větve se úspěšně dokončilo.
+Potvrzení změn 8d1466bd je vytvořené místně v úložišti C:\Users\neuro\OneDrive\C\sha1collisiondetection\Dokumenty\Plocha.
+Warning: unable to rmdir '.gitignore': Directory not empty
+Warning: unable to rmdir 'getting-started': Directory not empty
+Switched to branch 'upstream/main'
+Větev refs/heads/upstream/main se rezervovala.
+Potvrzení změn 3036c17f je vytvořené místně v úložišti C:\Users\neuro\OneDrive\C\sha1collisiondetection\Dokumenty\Plocha.
+Vkládají se změny větve upstream/main.
+Pushing to C:\Users\Neuro\Source\Repos\.c
+Při vkládání větve do vzdáleného úložiště došlo k chybě: Git failed with a fatal error.
+Git failed with a fatal error.
+'C:\Users\Neuro\Source\Repos\.c' does not appear to be a git repository
+Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+
+Větev se nepodařilo vložit do vzdáleného úložiště. Další podrobnosti najdete v okně Výstup.
+Potvrzení změn db23d2eb je vytvořené místně v úložišti C:\Users\neuro\OneDrive\C\sha1collisiondetection\Dokumenty\Plocha.
+Načítají se změny z úložiště origin.
+Při načítání změn došlo k chybě: Načtení změn ze vzdáleného úložiště se nepovedlo. Další podrobnosti najdete v okně s výstupem.
+Načtení změn ze vzdáleného úložiště se nepovedlo. Další podrobnosti najdete v okně s výstupem.
+Potvrzení změn 44e3e83e je vytvořené místně v úložišti C:\Users\neuro\OneDrive\C\sha1collisiondetection\Dokumenty\Plocha.
+Vkládají se změny větve upstream/main.
+Pushing to C:\Users\Neuro\Source\Repos\.c
+Při vkládání větve do vzdáleného úložiště došlo k chybě: Git failed with a fatal error.
+Git failed with a fatal error.
+'C:\Users\Neuro\Source\Repos\.c' does not appear to be a git repository
+Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+
+Větev se nepodařilo vložit do vzdáleného úložiště. Další podrobnosti najdete v okně Výstup.
+Probíhá přenesení změn aktuální větve do větve refs/heads/$/--!master-!!2-.
+Error: cannot rebase: You have unstaged changes.
+Please commit or stash them.
+
+Probíhá přenesení změn aktuální větve do větve refs/heads/upstream/a$aa.
+Error: cannot rebase: You have unstaged changes.
+Please commit or stash them.
+
+Probíhá přenesení změn aktuální větve do větve refs/heads/!0.
+Error: cannot rebase: You have unstaged changes.
+Please commit or stash them.
+
+Warning: unable to rmdir '.gitignore': Directory not empty
+Warning: unable to rmdir 'getting-started': Directory not empty
+Switched to branch 'hexbot'
+Merging Updated upstream with Stashed changes
+Merging:
+virtual Updated upstream
+virtual Stashed changes
+Index was not unstashed.
+The stash entry is kept in case you need it again.
+Po dokončení rezervace větve refs/heads/hexbot se nepodařilo znovu použít nepotvrzené změny.
+Vkládají se změny větve hexbot.
+Pushing to C:\Users\Neuro\Source\Repos\.c
+Při vkládání větve do vzdáleného úložiště došlo k chybě: Git failed with a fatal error.
+Git failed with a fatal error.
+'C:\Users\Neuro\Source\Repos\.c' does not appear to be a git repository
+Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+
+Větev se nepodařilo vložit do vzdáleného úložiště. Další podrobnosti najdete v okně Výstup.
+Vkládají se změny větve hexbot.
+Pushing to C:\Users\Neuro\Source\Repos\.c
+Při vkládání větve do vzdáleného úložiště došlo k chybě: Git failed with a fatal error.
+Git failed with a fatal error.
+'C:\Users\Neuro\Source\Repos\.c' does not appear to be a git repository
+Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+
+Větev se nepodařilo vložit do vzdáleného úložiště. Další podrobnosti najdete v okně Výstup.
+Error: you need to resolve your current index first
+.vs/Plocha/v16/.suo: needs merge
+Error: you need to resolve your current index first
+.vs/Plocha/v16/.suo: needs merge
+Vkládají se změny větve hexbot.
+Pushing to C:\Users\Neuro\Source\Repos\.c
+Při vkládání větve do vzdáleného úložiště došlo k chybě: Git failed with a fatal error.
+Git failed with a fatal error.
+'C:\Users\Neuro\Source\Repos\.c' does not appear to be a git repository
+Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+
+Větev se nepodařilo vložit do vzdáleného úložiště. Další podrobnosti najdete v okně Výstup.
+Načítají se změny z úložiště origin.
+Při načítání změn došlo k chybě: Načtení změn ze vzdáleného úložiště se nepovedlo. Další podrobnosti najdete v okně s výstupem.
+Načtení změn ze vzdáleného úložiště se nepovedlo. Další podrobnosti najdete v okně s výstupem.
+Vkládají se změny větve hexbot.
+Pushing to C:\Users\Neuro\Source\Repos\.c
+Při vkládání větve do vzdáleného úložiště došlo k chybě: Git failed with a fatal error.
+Git failed with a fatal error.
+'C:\Users\Neuro\Source\Repos\.c' does not appear to be a git repository
+Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+
+Větev se nepodařilo vložit do vzdáleného úložiště. Další podrobnosti najdete v okně Výstup.
+HEAD is now at b51cd9c ^L
+Vkládají se změny větve hexbot.
+Pushing to C:\Users\Neuro\Source\Repos\.c
+Při vkládání větve do vzdáleného úložiště došlo k chybě: Git failed with a fatal error.
+Git failed with a fatal error.
+'C:\Users\Neuro\Source\Repos\.c' does not appear to be a git repository
+Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+
+Větev se nepodařilo vložit do vzdáleného úložiště. Další podrobnosti najdete v okně Výstup.
